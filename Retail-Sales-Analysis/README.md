@@ -30,4 +30,4 @@ The dashboard is designed to help stakeholders quickly understand key business m
 - Applied business analytics to simulate real-world retail scenarios.
 
 ## Connect
-- LinkedIn: [vinay-juluri]
+- LinkedIn: (https://linkedin.com/in/vinay-juluri-6b8227168)
