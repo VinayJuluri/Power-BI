@@ -11,21 +11,21 @@ Evaluate regional sales distribution.
 Visualize sales trends over time to identify patterns.
 
 ## Key KPIs
-Total Sales
-Total Profit
-Average Order Value
+Total Sales,
+Total Profit,
+Average Order Value,
 Sales by Region, Segment, Category, and Sub-Category
-Top Customers by Sales
-Top Products by Profit
+Top Customers by Sales, and
+Top Products by Profit.
 
 ## Dashboard Features
-Tree Map: Sales distribution by Region
-Bar Charts: Sales by Category and Sub-Category
-Pie Chart: Sales by Customer Segment
-Line Graph: Yearly Sales Trend
-KPI Cards: Highlight Total Sales, Total Profit, and Average Order Value
-Tables: Top Customers and Most Profitable Products
-Slicers: Filter by Region and Customer Segment for interactive insights
+Tree Map: Sales distribution by Region.
+Bar Charts: Sales by Category and Sub-Category.
+Pie Chart: Sales by Customer Segment.
+Line Graph: Yearly Sales Trend.
+KPI Cards: Highlight Total Sales, Total Profit, and Average Order Value.
+Tables: Top Customers and Most Profitable Products.
+Slicers: Filter by Region and Customer Segment for interactive insights.
 
 ## Learnings
 Developed skills in data modeling, relationship building, and DAX measures.
